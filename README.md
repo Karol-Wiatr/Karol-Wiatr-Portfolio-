@@ -20,13 +20,11 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * [Python for Beginners | Programming Tutorial](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3&index=2)
 ## Books
 * Roman A., Stapp L. _Certyfikowany tester ISTQB - Poziom podstawowy_, Gliwice, Helion, 2022
-## Testers Community
 ## Blogs and Websites
 * [testerzy.pl](https://testerzy.pl/)
 * [toniebug.pl](https://www.toniebug.pl/)
 * [remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
-## Webinars and Meetups
 ## My Documentation
 * Test cases
   + [PKP Intercity - Test Cases in Polish](https://docs.google.com/spreadsheets/d/1CgTx-trL7L9vIhVyYqdS7t21h94DyhUUgRsL8Kq9sIA/edit?usp=drive_link)
