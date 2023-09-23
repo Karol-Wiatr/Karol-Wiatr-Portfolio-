@@ -37,5 +37,5 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Test reports
 ## My Projects
 * Scripted tests of the PKP Intercity connection finder
-  + [Wyszukiwarka podstawowa](https://github.com/AlfredBundyTesting/AlfredBundyTesting/blob/main/wyszukiwarka_podstawowa.py)
-  + [Wyszukiwarka szczegółowa](https://github.com/AlfredBundyTesting/AlfredBundyTesting/blob/main/wyszukiwarka_szczegolowa.py)
+  + [Wyszukiwarka podstawowa](https://github.com/Karol-Wiatr/Karol-Wiatr-Portfolio-/blob/main/wyszukiwarka_podstawowa.py)
+  + [Wyszukiwarka szczegółowa](https://github.com/Karol-Wiatr/Karol-Wiatr-Portfolio-/blob/main/wyszukiwarka_szczegolowa.py)
