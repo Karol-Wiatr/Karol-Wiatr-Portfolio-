@@ -6,6 +6,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * **API Testing:** Postman, SoapUI
 * **Automation testing:** Selenium 4 with Python
 * **Other helpfull tools:** Selenium IDE, SelectorsHub, TestCase Studio, Wizdler, Screenity
+* **Test managment:** Jira
 * **Operating systems:** Windows, Linux (Debian, Ubuntu)
 * **Programing languages:** Python (still learning)
 * **Programing IDE:** PyCharm
