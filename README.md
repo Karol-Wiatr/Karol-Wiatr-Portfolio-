@@ -33,6 +33,7 @@ I am a junior manual tester and this is a sample of my skills. In my work I focu
 * Bug reports
   + [PKP Intercity - Bug Reports in Polish](https://docs.google.com/spreadsheets/d/1fiBFIboHT7gk0-PtnQ4RGFm8CBgk85WRPCa19iF1Cl8/edit?usp=drive_link)
 * Test reports
+  + [PKP Intercity - Test Reports in Polish](https://docs.google.com/document/d/1grACw34Wu0_mgNjzuICqGHwX7xCbXo1Q_vIzFOXK2oM/edit?usp=sharing)
 ## My Projects
 * Scripted tests of the PKP Intercity connection finder
   + [Wyszukiwarka podstawowa](https://github.com/Karol-Wiatr/Karol-Wiatr-Portfolio-/blob/main/wyszukiwarka_podstawowa.py)
