@@ -22,7 +22,7 @@ print(f"Opcja przyjazdu jest wybrana: {radio_przyjazd.is_selected()}")
 # Wybór daty
 kalendarz = driver.find_element(By.XPATH, '//*[@id="date_picker"]')
 kalendarz.clear()
-kalendarz.send_keys("2023-10-10")
+kalendarz.send_keys("2023-11-10")
 # Wybór godziny
 driver.find_element(By.XPATH, '//*[@id="ic-seek-time"]').click()
 godziny = driver.find_elements(By.XPATH, '/html/body/div[3]/ul/li')
