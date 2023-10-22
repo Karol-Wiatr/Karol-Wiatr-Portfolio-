@@ -21,7 +21,7 @@ kondrop = driver.find_element(By.XPATH, '//*[@id="searchTrainForm"]/div[1]/div[2
 waitfor.until(ec.element_to_be_clickable(kondrop))
 kondrop.click()
 wybor_daty.clear()
-wybor_daty.send_keys("2023-10-10")
+wybor_daty.send_keys("2023-11-10")
 godzina.click()
 godziny = driver.find_elements(By.XPATH, "/html/body/div[3]/ul/li")
 for godz in godziny:
